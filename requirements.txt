@@ -1,0 +1,5 @@
+1. fredr
+2. ggplot2
+3. xts
+4. dLagm
+5. forecast
